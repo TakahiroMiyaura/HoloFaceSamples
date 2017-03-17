@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05b8dd9f117a578489971151ab01d395
+timeCreated: 1489766789
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - FaceObject: {fileID: 114728471020102854, guid: 4f268c5b64b95f34f9e3b7b05374d74e,
+      type: 2}
+  - TextData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
